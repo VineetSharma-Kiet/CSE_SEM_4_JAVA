@@ -7,6 +7,7 @@ for(int i=1;i<=5;i++)
 	System.out.println("Hello "+i);
 System.out.println("Finished");
 System.out.println("Finished Done");
+System.out.println("Done Dana done");
 	}
 
 }
